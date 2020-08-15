@@ -54,7 +54,6 @@ async def reply(message):
     reply = f'{message.author.mention} はい？' # 返信メッセージの作成
     await message.channel.send(reply) # 返信メッセージを送信
 
-
     
 # Botの起動とDiscordサーバーへの接続
 client.run(TOKEN)
