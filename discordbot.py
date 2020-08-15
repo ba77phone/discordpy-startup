@@ -24,7 +24,7 @@ async def on_ready():
     member_id = 742193673621471262
     member = channel.guild.get_member(member_id)
 
-    
+
     #await channel.send("密を避けるため、"f"{member.mention}を使って空気を入れ替えてください")
 
 # メッセージ受信時に動作する処理
