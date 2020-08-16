@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzQ0MTAxNDYzNDM2ODIwNTMw.XzeUfQ.CT8t6jkhj4Kb7N_Fqk277QRmPPY'
+TOKEN = 'NzQ0MTAxNDYzNDM2ODIwNTMw.XzeUfQ.dkNaDDvOlYZTOZsKIKj0-IO-k9M'
 CH_ID = 744161340725133352
 discord_voice_channel_id = ''#732218077583900776
 
