@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NzQ0MTAxNDYzNDM2ODIwNTMw.XzeUfQ.qSbN-OE3LabOG_DoZrM1JV4O5XM'
+TOKEN = 'NzQ0MTAxNDYzNDM2ODIwNTMw.XzeUfQ.jSi4vu4h2I1_hFjs7j18ObW0UVg'
 discord_voice_channel_id = ''#732218077583900776
 sh_ID = 742193673621471262
 
